@@ -1,5 +1,5 @@
 var infolinks_pid = 1722223;
-var infolinks_wsid = 0;
+var infolinks_wsid = 2;
 
 
 var incFile = "http://resources.infolinks.com/js/infolinks_main.js";
